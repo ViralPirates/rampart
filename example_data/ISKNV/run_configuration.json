@@ -1,0 +1,11 @@
+{
+  "title": "ISKNV Validation Run",
+  "basecalledPath": "fastq/pass",
+  "samples": [
+    {
+      "name": "ISKNV",
+      "description": "Shayma's first run",
+      "barcodes": [ "barcode07" ]
+    }
+  ]
+}
