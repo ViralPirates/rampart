@@ -1,0 +1,11 @@
+{
+  "title": "T7 Test",
+  "basecalledPath": "fastq/pass",
+  "samples": [
+    {
+      "name": "T7",
+      "description": "2kb fragments",
+      "barcodes": [ "barcode05" ]
+    }
+  ]
+}
